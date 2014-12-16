@@ -10,7 +10,7 @@ After that, run the following:
  ```
  
  Assuming the following configuration:
- ```json
+ ```
  webserver {
 	hostname = "localhost",
 	port = 9990,
